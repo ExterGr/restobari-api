@@ -1,1 +1,1 @@
-# restobari-app
+# restobari-api
